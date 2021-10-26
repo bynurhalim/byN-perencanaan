@@ -1,4 +1,4 @@
 byN RESOLUSI
 
 -Belajar sebanyak mungkin front-end
--Website sendiri
+-Cara mengupdate resolusi
