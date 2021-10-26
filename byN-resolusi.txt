@@ -1,3 +1,4 @@
 byN RESOLUSI
 
 -Belajar sebanyak mungkin front-end
+-Website sendiri
