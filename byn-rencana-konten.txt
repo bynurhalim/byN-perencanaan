@@ -1,6 +1,8 @@
 RENCANA KONTEN BYN
 
 -javascript
+ *ES6
+ *Frame Javascript
 -PHP framework
 -Interview
 -Vlogs
