@@ -1,4 +1,7 @@
 byN RESOLUSI
 
--Belajar sebanyak mungkin front-end
--Cara mengupdate resolusi
+-Konsistem Belajar sebanyak mungkin front-end
+-Kolaborasi dengan lebih banyal expert
+-Membuat Forum Diskusi
+-Membuat Platform untuk pengelolaan video
+-membuat vlog
