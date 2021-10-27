@@ -4,6 +4,7 @@ RENCANA KONTEN BYN
  *ES6
  *Frame Javascript
   ^Vue
+  ^React
 -Struktur Data Dasar
 -PHP framework
  ^Laravel
