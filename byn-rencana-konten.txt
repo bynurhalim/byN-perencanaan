@@ -3,9 +3,11 @@ RENCANA KONTEN BYN
 -javascript
  *ES6
  *Frame Javascript
-  ^Angular
+  ^Vue
   ^React
+-Struktur Data Dasar
 -PHP framework
  ^Laravel
 -Interview
 -Vlogs
+-Python
